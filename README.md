@@ -1,1 +1,2 @@
 # AffinityMiner
+www.affinityminer.com
